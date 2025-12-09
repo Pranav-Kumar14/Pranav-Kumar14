@@ -51,7 +51,7 @@ Full Stack Developer • AI/ML Explorer • OSS Contributor
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Full Stack Developer • AI/ML Explorer • OSS Contributor
 
 ---
 
-## ✨ About Me
+## About Me
 
 - I love building projects that scale and impact users.
 - I enjoy exploring AI/ML and modern web frameworks.
