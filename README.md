@@ -54,14 +54,9 @@ Full Stack Developer • AI/ML Explorer • OSS Contributor
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav-Kumar14&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Kumar14&theme=github-dark-blue" width="48%" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Kumar14&theme=github-compact" width="96%"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Kumar14&layout=compact&theme=github_dark" width="50%"/>
-
 </div>
 
 ---
