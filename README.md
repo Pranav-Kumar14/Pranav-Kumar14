@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding gif"/>
 
 <h1>Hey, I'm Pranav Kumar</h1>
 
@@ -29,23 +28,23 @@ Full Stack Developer • AI/ML Explorer • OSS Contributor
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td>Python, JavaScript, C++, Java, SQL</td>
+    <td>Python, JavaScript, C, C++, Java, SQL, Spark</td>
   </tr>
   <tr>
     <td><b>Frameworks</b></td>
-    <td>React, Next.js, Node.js, Express</td>
+    <td>React, Next.js, Node.js, Express, Flask</td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td>MongoDB, MySQL</td>
+    <td>MongoDB, MySQL, HDFS</td>
   </tr>
   <tr>
     <td><b>Styling</b></td>
-    <td>Tailwind CSS, Bootstrap</td>
+    <td>CSS, Tailwind CSS, Bootstrap</td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td>Git, Docker, Postman, Jupyter</td>
+    <td>Git, Shell, Docker, Postman, Jupyter, Colab, OpenCV</td>
   </tr>
 </table>
 
