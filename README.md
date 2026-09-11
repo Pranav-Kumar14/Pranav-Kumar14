@@ -17,7 +17,7 @@ Full Stack Developer • AI/ML Explorer • OSS Contributor
 <a href="https://leetcode.com/u/Pranav_Kumar14/">
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
 </a>
-<a href="PranavKumar_230962230.pdf">
+<a href="PranavKumar_Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-%23E4405F.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge"/>
 </a>
 </p>
