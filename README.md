@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1>Hey, I'm Pranav Kumar</h1>
+<h2>Upcoming Seasonal Analyst at Goldman Sachs</h2>
 
 <p>
 Full Stack Developer • AI/ML Explorer • OSS Contributor
